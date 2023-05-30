@@ -1,4 +1,4 @@
-module github.com/rmazur/num2words
+module num2words
 
 go 1.20
 

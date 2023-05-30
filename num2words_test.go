@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/rmazur/num2words"
+	"num2words"
+
 	. "github.com/smartystreets/goconvey/convey"
 )
 
